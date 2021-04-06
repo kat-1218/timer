@@ -1,5 +1,5 @@
-# Created April 21
-Work hours timer
+# Work hours timer
+Created April 2021
 
 This code is runs a timer which can be used to calculate the number of 
 decimal hours you have worked in a day.
